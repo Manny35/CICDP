@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSample", "CoreSample\CoreSample.csproj", "{DD511E7B-45D2-485A-9091-39EDAB9CAD4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xBehavePOC", "xBehavePOC\xBehavePOC.csproj", "{114F8DFB-10ED-40C3-906E-FD81B8B604A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD511E7B-45D2-485A-9091-39EDAB9CAD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD511E7B-45D2-485A-9091-39EDAB9CAD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD511E7B-45D2-485A-9091-39EDAB9CAD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD511E7B-45D2-485A-9091-39EDAB9CAD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114F8DFB-10ED-40C3-906E-FD81B8B604A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114F8DFB-10ED-40C3-906E-FD81B8B604A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114F8DFB-10ED-40C3-906E-FD81B8B604A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114F8DFB-10ED-40C3-906E-FD81B8B604A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F602D78-35D8-4D8E-973B-530EFFF3934F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://13.93.147.241:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CoreSample\\CoreSample.csproj
+		SccProjectName1 = CoreSample
+		SccLocalPath1 = CoreSample
+		SccProjectUniqueName2 = xBehavePOC\\xBehavePOC.csproj
+		SccProjectName2 = xBehavePOC
+		SccLocalPath2 = xBehavePOC
+	EndGlobalSection
+EndGlobal
